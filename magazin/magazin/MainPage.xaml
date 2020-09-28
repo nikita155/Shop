@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="magazin.MainPage" LayoutChanged="ContentPage_LayoutChanged">
+
+    <StackLayout>
+
+        <StackLayout x:Name="gridListView">
+            <ListView ItemSelected="CollOffer_ItemSelected" x:Name="CollOffer">
+            </ListView>
+        </StackLayout>
+
+        <StackLayout x:Name="gridShowText">
+            <ScrollView>
+                <Label Text="Here text" x:Name="dispalyText"/>
+            </ScrollView>
+            <Button Text="Принять" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

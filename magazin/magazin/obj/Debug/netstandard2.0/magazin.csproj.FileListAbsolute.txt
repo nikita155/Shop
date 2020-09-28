@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\bin\Debug\netstandard2.0\magazin.deps.json
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\bin\Debug\netstandard2.0\magazin.dll
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\bin\Debug\netstandard2.0\ref\magazin.dll
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\bin\Debug\netstandard2.0\magazin.pdb
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.dll
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\ref\magazin.dll
+C:\Users\Nikita\source\repos\magazin\magazin\magazin\obj\Debug\netstandard2.0\magazin.pdb
